@@ -15,10 +15,10 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: venkyroyal/tetrisv2:latest
+        image: 
         ports:
         - containerPort: 3000   # Use port 3000
-
+i
 ---
 apiVersion: v1
 kind: Service
